@@ -1,0 +1,12 @@
+.main-list {
+  cursor: pointer;
+}
+.main-list:hover {
+  transition: 0.3s;
+  box-shadow: 1px 3px 3px 1px;
+}
+
+.CardColor{
+   background: linear-gradient(rgb(207, 92, 54), rgb(238, 229, 233));
+   
+}

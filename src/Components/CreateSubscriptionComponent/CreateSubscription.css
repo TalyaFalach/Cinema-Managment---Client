@@ -1,0 +1,5 @@
+.myBorder{
+    border: 1px solid black;
+    box-shadow: 1px 1px 1px 1px rgba(100, 100, 100, 0.6);
+    border-radius: 6px;
+}

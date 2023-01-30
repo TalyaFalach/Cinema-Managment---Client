@@ -1,0 +1,1 @@
+# Create redux file, to store all the Movies Data, Current user data, and all users
